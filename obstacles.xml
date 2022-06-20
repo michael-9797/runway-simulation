@@ -1,0 +1,24 @@
+<?xml version='1.0' ?>
+
+<objects>
+	<object id="1">
+		<name>airplane wing</name>
+		<description>a broken wing of a crashed airplane</description>
+		<height>2</height>
+	</object>
+	<object id="2">
+		<name>airplane tail</name>
+		<description>a broken tail of a crashed airplane</description>
+		<height>1</height>
+	</object>
+	<object id="3">
+		<name>aircraft pushback truck</name>
+		<description>a truck designed to aid towing of small aircraft</description>
+		<height>7</height>
+	</object>
+	<object id="4">
+		<name>passenger tunnel</name>
+		<description>a collapsed tunnel for loading passengers on an aircraft</description>
+		<height>3</height>
+	</object>
+</objects>
